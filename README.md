@@ -1206,3 +1206,6 @@ If you have any question about this opinionated list, do not hesitate to contact
 # Install httpie
 python -m pip install --upgrade pip wheel
 python -m pip install httpie
+# Upgrade httpie
+python -m pip install --upgrade pip wheel
+python -m pip install --upgrade httpie
